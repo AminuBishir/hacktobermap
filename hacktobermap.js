@@ -173,4 +173,10 @@ var hacktobermap = [
     latitude: 38.356579,
     longitude: -121.987747
   },
+  {
+    name: "Aminu Bishir",
+    location: "Katsina, Nigeria",
+    latitude: 12.987430,
+    longitude: 7.603690
+  },
 ];
